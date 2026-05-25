@@ -9,4 +9,7 @@ What we have now:
 
 If any error or bug happened, tell me in launcherm98@gmail.com, tell me what happen, give me screenshots, and I will try to help you.
 
+LauncherM v1.0.1:
+-Fixed game list not saving after reopening the launcher
+
 thank you for using LauncherM :)
